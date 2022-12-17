@@ -1,4 +1,4 @@
-// By Bryan Gonzalez
+// Stroke Folks
 
 // Speaker Pin
 int SpeakerPin = 33;
